@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bloc de Notas</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="title_home">Bloc de Notas</string>
+    <string name="title_dashboard">Bloc de Notas varias</string>
+    <string name="title_notifications">Bloc de Notas Notificaciones</string>
+</resources>
